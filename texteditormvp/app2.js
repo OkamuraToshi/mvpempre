@@ -101,4 +101,4 @@ function load() {
         }
         return pos; // needed because of recursion stuff
     }
-}
+};
